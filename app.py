@@ -64,9 +64,9 @@ with st.sidebar:
     st.write("Professional Threat Intelligence Agent powered by LangChain + Groq.")
     
     st.subheader("Available Tools")
-    st.markdown("🔍 **CVE Lookup**: NVD API v2 for vulnerability details.")
-    st.markdown("📋 **MITRE ATT&CK**: Search techniques and tactics.")
-    st.markdown("🌐 **Web Search**: Real-time threat actor & malware info.")
+    st.markdown("**CVE Lookup**: NVD API v2 for vulnerability details.")
+    st.markdown("**MITRE ATT&CK**: Search techniques and tactics.")
+    st.markdown("**Web Search**: Real-time threat actor & malware info.")
     
     st.divider()
     if st.button("Clear Chat History", use_container_width=True):
