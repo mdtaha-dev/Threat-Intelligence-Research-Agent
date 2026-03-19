@@ -1,0 +1,8 @@
+langchain
+langchain-groq
+langchain-community
+streamlit
+python-dotenv
+requests
+mitreattack-python
+google-search-results
